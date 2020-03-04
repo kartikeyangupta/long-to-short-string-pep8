@@ -20,5 +20,5 @@ if __name__=='__main__':
 	for i in l:
 		print("b'",end='')	
 		print(i,end='')
-		print("'\")
+		print("'\\")
 	
